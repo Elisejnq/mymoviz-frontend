@@ -13,6 +13,8 @@ Ce projet est un catalogue de films du moment qui utilise l'API The Movie Databa
 
 - HTML, CSS, JavaScript
 - [The Movie Database API](https://www.themoviedb.org/documentation/api)
+- Front-end: React.js, Next.js
+- Back-end: Express.js, Node.js
 
 ## Déploiement
 
