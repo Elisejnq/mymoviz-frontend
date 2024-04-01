@@ -20,6 +20,5 @@ Le déploiement de l'application est disponible ici: https://mymoviz-frontend-ps
 
 ## Captures d'écran
 
-[Capture-d-cran-2024-04-01-18-06-01.png](https://postimg.cc/vgQqjcXS)
 <a href='https://postimg.cc/vgQqjcXS' target='_blank'><img src='https://i.postimg.cc/vgQqjcXS/Capture-d-cran-2024-04-01-18-06-01.png' border='0' alt='Capture-d-cran-2024-04-01-18-06-01'/></a>
 
